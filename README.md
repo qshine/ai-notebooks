@@ -1,6 +1,6 @@
 ## ai-coder-book
 
-<<程序员的AI书>>
+### <<程序员的AI书>>
 - section01  
 正负数识别
 - section02
@@ -15,3 +15,5 @@
     - main1 房屋价格预测
 - section04
     - main0 逻辑回归
+- section05
+    - main0 LR模型在推荐场景下的应用
