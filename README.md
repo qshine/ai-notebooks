@@ -22,3 +22,6 @@
 ### <<python机器学习基础教程>>
 - section01
 鸢尾花分类
+- section02
+    - main0 K近邻
+    - main1 线性回归
